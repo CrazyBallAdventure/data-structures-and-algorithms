@@ -137,7 +137,7 @@ const listFoods = (recipe) => {
 };
 
 /* ------------------------------------------------------------------------------------------------
-CHALLENGE 7 - Stretch Goal
+CHALLENGE 7 - Stretch Goalie
 
 Write a function named splitFoods that uses split to produce the same output as Challenge 6.
 
